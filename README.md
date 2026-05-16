@@ -1,0 +1,7 @@
+Six solutions from Softuni - Tuples and Sets excercise 
+Taks 1 - related with printing the unique usernames based on the provided number of username entries. 
+Task 2 - A program that prints a set of elements based on given two numbers, separated by a single space - representing the lengths of two separate sets. On the next n + m lines there are the numbers in the first set, and m numbers, which are in the second set. The task is to find all the unique elements that appear in both and print them on separate lines.
+Task 3 - A program that keeps all the unique chemical elements. The first line, represents the count of input lines, . On the following n lines, are the chemical compounds separated by a single space. The task is to print all the elements in separate lines.
+Task 4 - A program that reads a text from the console and counts the occurrences of each character in it. It prints the result in aplphabetical order. 
+Task 5 - A program that finds the longest intersection. Based on a given number represents the number of input lines. On each of the next N lines there are given two ranges in the format: "{first_start},{first_end}-{second_start},{second_end}". The task is to find the intersection of these two ranges. The start and end numbers in the ranges are inclusive.
+        The task is to find the longest intersection of all N intersections, print the numbers that are included and its length in the format: "Longest intersection is [{longest_intersection_numbers}] with length {length_longest_intersection}"
